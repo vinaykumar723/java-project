@@ -1,0 +1,58 @@
+Welcome to the Simple To-Do List!
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Exit
+Enter your choice: 👉 1
+Enter task name: 👉 Buy groceries
+Task added!
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Exit
+Enter your choice:  1
+Enter task name:  Complete homework
+Task added!
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Exit
+Enter your choice:  2
+
+Your Tasks:
+1. [ ] Buy groceries
+2. [ ] Complete homework
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Exit
+Enter your choice:  3
+Enter task number to mark as done:  1
+Task marked as done!
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Exit
+Enter your choice:  2
+
+Your Tasks:
+1. [✓] Buy groceries
+2. [ ] Complete homework
+
+Menu:
+1. Add Task
+2. View Tasks
+3. Mark Task as Done
+4. Exit
+Enter your choice: 4
+Goodbye!
